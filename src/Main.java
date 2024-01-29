@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         //1 create a frame
         JFrame frame = new JFrame();
-        frame.setSize(500,500);
+        frame.setSize(510,500);
         frame.setBackground(new Color(189, 38, 231));
         //2 create a panel
         // default layout is flow layout
