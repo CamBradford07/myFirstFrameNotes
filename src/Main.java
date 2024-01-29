@@ -12,7 +12,7 @@ public class Main {
         JPanel panel = new JPanel();
         panel.setBackground(Color.red);
         //3 create components
-        JLabel label = new JLabel("Hello world");
+        JLabel label = new JLabel("Hello Seaver");
         JButton button = new JButton("click me please");
         JTextField texty = new JTextField(12);
         JCheckBox checky = new JCheckBox("click me too", true);
